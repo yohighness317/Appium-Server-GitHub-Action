@@ -1,0 +1,2 @@
+- name: Appium Server Action
+  uses: moatazeldebsy/Appium-Server-GitHub-Action@V1.0.4
